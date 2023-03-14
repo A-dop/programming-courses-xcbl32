@@ -5,3 +5,4 @@
 console.log("Welcome to school ");
 console.log("thank you ");
 console.log("maldini ");
+cosole.log("ahmed ");
